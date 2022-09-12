@@ -1,1 +1,1 @@
-Aqui você encontra a linha melódica dos hinos escrita para instrumentos transpostos em Eb, como o clarinete.
+Aqui você encontrará a linha melódica de cada hino escrita para instrumentos transpostos em Eb, como o clarinete, por exemplo.
