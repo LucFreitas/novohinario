@@ -8,3 +8,6 @@ Além das partituras, há uma correlação completa entre a numeração e o tít
 
 ## Como usar este conteúdo?
 Para baixar é bem simples. Basta entrar nas pastas, abrir o arquivo e clicar no botão "Download" no cabeçalho, que o arquivo será transferido para seu computador. Você também pode transferir todo o repositório de uma única vez, bastando que você clique no botão "Code" na tela inicial, e escolha a opção "Download Zip". Todos os arquivos serão baixados em seu dispositivo em uma única pasta compactada.
+
+## Como contribuir?
+Você pode contribuir com sujestões ou correções nestes conteúdos. Basta ir a aba "Issues" e adicionar uma requisição (você precisarar ter uma conta no GitHub). A ajuda de vocês é muito bem-vinda para poder construir um conteúdo de qualidade!
